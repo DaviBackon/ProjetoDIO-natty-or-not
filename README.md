@@ -15,6 +15,8 @@ Utilizei o **Gemini** para criar o roteiro de meu e-book, e assim, conseguindo e
 ## 🚀 Resultados
 Os resultados são surpreendentes, pois em alguns minutos foi possível construir um e-book do zero apenas com o tema, IAs generativas são muito relevantes para várias áreas que necessitam de algo rápido e de fácil acesso e com alto desempenho.
 
+[LINK PARA O E-BOOK AQUI](https://www.canva.com/design/DAGYiN2QlqY/dAmKeuluWJ3m4bGAu5hcsw/view?utm_content=DAGYiN2QlqY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 ## 💭 Reflexão (Opcional)
 Criar este e-book foi uma experiência ótima para meu conhecimento em IAs generativas.
 
